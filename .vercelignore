@@ -1,0 +1,17 @@
+# Exclude large files from Vercel deployment (1GB limit)
+
+# Reference repository (not needed for production)
+reference-3D-Action-RPG/
+
+# History files
+.history/
+
+# Demo folder
+Demo/
+
+# Archive files
+*.zip
+
+# Large reference assets
+3D-Action-RPG-JavaScript-main.zip
+reference-3D-Action-RPG.zip
