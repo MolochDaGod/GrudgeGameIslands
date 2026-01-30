@@ -1,6 +1,11 @@
 # 🎮 Grudge Warlords - Generative Island RPG
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=YOUR_GITHUB_URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MolochDaGod/GrudgeWarlords)
+
+## 🌐 Live Demo
+
+🎮 **Play Now**: https://grudge-warlords-hgbqv6wno-grudgenexus.vercel.app  
+⭐ **GitHub**: https://github.com/MolochDaGod/GrudgeWarlords
 
 A 3D Action RPG built with Babylon.js featuring **7 playable character races**, procedural generation, skill trees, and a comprehensive level editor.
 
