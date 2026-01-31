@@ -1,6 +1,14 @@
 {
   "rewrites": [
     {
+      "source": "/favicon.svg",
+      "destination": "/3D-Action-RPG-JavaScript-main/favicon.svg"
+    },
+    {
+      "source": "/favicon.ico",
+      "destination": "/3D-Action-RPG-JavaScript-main/assets/icons/favicon.ico"
+    },
+    {
       "source": "/",
       "destination": "/3D-Action-RPG-JavaScript-main/index.html"
     },
